@@ -1,4 +1,4 @@
-# Olá, sou a Mafalda 👋
+# Olá, sou a Mafalda 
 
 Estudante do 3.º ano de Engenharia Informática e Computação na **FEUP**, no Porto, à procura de um **estágio curricular** onde possa aplicar o que aprendi e crescer em projetos reais.
 
